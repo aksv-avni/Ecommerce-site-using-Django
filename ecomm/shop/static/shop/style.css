@@ -1,0 +1,51 @@
+body
+{
+	background-color : #80558C;
+	font-family: "Montserrat";
+}
+
+.navbar 
+{
+	background-color : #CBA0AE;
+}
+
+#upper-bar
+{
+	background-color: #E4D192;
+	 
+}
+
+.navbar-brand{
+	color: #411530;
+}
+
+
+#search-box 
+{
+	margin-bottom: 50px;
+	border : none;
+}
+
+
+.card-text
+{
+	color : green;
+	font-weight : 800;
+}
+
+.card-title
+{
+	font-weight : 900;
+}
+
+.btn-outline-success {
+	border-color : #411530;
+	color: #fff;
+  }
+  
+  .btn-outline-success:hover {
+	background-color : #411530;
+	border-color : #411530;
+	color: white;
+  }
+
